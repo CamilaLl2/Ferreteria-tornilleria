@@ -34,6 +34,7 @@ Esta aplicación esta destinada a ser usada tanto por el administrador de la fer
 
 ¿En qué consiste?:
 El proyecto a desarrolar consiste en una aplicación para una ferreteria-tornilleria, la cual cuenta con diversas opciones de tornillos para ofrecerles a sus clientes. La aplicación tendrá varios objetivos:
+
 1. Permitir al administrador agregar usuarios de posibles clientes y validar correctamente los usuarios guardados.
 
 2.Mostrar a los clientes los productos en venta y que estos puedan montarlos al carrito y pagarlos si así lo desea.
