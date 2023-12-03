@@ -43,6 +43,8 @@ Mi módulo se divide en 2 partes. Una se encarga de mostrar los comentarios que 
 
 ## Usabilidad
 
+![UML Proyecto General](/UMLProyecto/out/FerreteriaUML/Ferreteria.png)
+
 Esta aplicación está destinada a ser usada tanto por el administrador, el vendedor y el cliente. Sin embargo, solo el administrador podrá guardar nuevos usuarios. En nuestra aplicación dejamos predeterminado como administrador el usuario: root y contraseña: admin.
 
 Si entra a la aplicación como cliente podrá ver los productos, agregarlos al carrito, pagarlo y agregar comentarios sobre su calidad. Si entra como vendedor podrá agregar más productos a la tienda.
