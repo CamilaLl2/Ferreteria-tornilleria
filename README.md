@@ -47,6 +47,9 @@ El proyecto a desarrolar consiste en una aplicación para una ferreteria-tornill
 
 
 Tecnologías empleadas:
+
 El lenguaje de desarrollo: java 17.0.5 
+
 El IDE de desarrollo: Vscode y NetBeans 8.2
+
 Para el diagrama uml: la extension de Vscode PlantUML v2.17.5
