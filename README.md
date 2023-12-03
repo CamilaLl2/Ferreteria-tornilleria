@@ -18,8 +18,7 @@ Soy Camila, la coordinadora de este grupo, encargada del correcto funcionamiento
 
 ![Módulo Camila UML](/ImagenesModulos/Login.png)
 
-Mi módulo se divide en 2 partes, una relacionada con el administrador donde se definen las acciones que puede realizar en la aplicación y otra en la que se verifican los usuarios para permitirles ingresar en dependencia del rol que desempeñen. El diagrama uml de mi módulo es:
-https://github.com/CamilaLl2/Ferreteria-tornilleria/blob/255570ddf50bf93711d07f8cb92ff146d88dbbeb/ImagenesModulos/Login.png
+Mi módulo se divide en 2 partes, una relacionada con el administrador donde se definen las acciones que puede realizar en la aplicación y otra en la que se verifican los usuarios para permitirles ingresar en dependencia del rol que desempeñen.
 
 #### johnMarlonxxX
 Soy John Marlon, uno de los colaboradores de este grupo. En este proyecto trabajo en la parte relacionada con la oferta de productos.
@@ -28,8 +27,7 @@ Soy John Marlon, uno de los colaboradores de este grupo. En este proyecto trabaj
 
 ![Módulo John](/ImagenesModulos/Product.png)
 
-Mi módulo consiste en mostrar a los clientes los productos que se encuentran en venta en la ferretería y que puedan montarlos al carrito de compras si desean comprarlo, además de permitir a los vendedores insertar más productos a la tienda. Mi diagrama uml es:
-https://github.com/CamilaLl2/Ferreteria-tornilleria/blob/7e443a32091c47f7859d2ff1992aa1a86415bf2e/ImagenesModulos/Product.png
+Mi módulo consiste en mostrar a los clientes los productos que se encuentran en venta en la ferretería y que puedan montarlos al carrito de compras si desean comprarlo, además de permitir a los vendedores insertar más productos a la tienda.
 
 #### mdavidlau2006
 Soy Miguel David, uno de los colaboradores de este proyecto. En este proyecto me encargo del módulo referente a las referencias de los productos y control general de la aplicación.
