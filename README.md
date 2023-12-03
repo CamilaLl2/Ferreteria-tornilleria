@@ -15,6 +15,9 @@ Somos un grupo de estudiantes de ingeniería informática de primer año de la u
 Soy Camila, la coordinadora de este grupo, encargada del correcto funcionamiento del proyecto. En este proyecto me encargaré de la parte del login de los usuarios que pueden interactuar con la aplicación.
 
 ##### Más acerca de mi módulo
+
+![Módulo Camila](/ImagenesModulos/Login.png)
+
 Mi módulo se divide en 2 partes, una relacionada con el administrador donde se definen las acciones que puede realizar en la aplicación y otra en la que se verifican los usuarios para permitirles ingresar en dependencia del rol que desempeñen. El diagrama uml de mi módulo es:
 https://github.com/CamilaLl2/Ferreteria-tornilleria/blob/255570ddf50bf93711d07f8cb92ff146d88dbbeb/ImagenesModulos/Login.png
 
