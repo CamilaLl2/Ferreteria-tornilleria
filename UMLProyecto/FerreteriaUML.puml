@@ -1,0 +1,28 @@
+@startuml Ferreteria
+skinparam ClassAttributeIconSize 0
+
+!includesub Login/Users.puml!Users
+!includesub Login/Customer.puml!Customer
+!includesub Login/Admin.puml!Admin
+!includesub Login/Vendor.puml!Vendor
+
+!includesub Store/Product.puml!Product
+!includesub Store/ShopingCart.puml!ShopingCart
+
+
+!includesub Comment/Comment.puml!Comment
+!includesub Comment/Controller.puml!Controller
+
+Users <|-- Customer
+Users <|-- Vendor
+Users <|-- Admin
+ShopingCart "1" *-- "1..*" Product
+Product "1" *-- "0..*" Comment
+Controller o-- Product : controla
+Controller o-- Users : controla
+Controller o-- ShopingCart : controla
+Controller o-- Comment : controla
+
+
+@enduml
+

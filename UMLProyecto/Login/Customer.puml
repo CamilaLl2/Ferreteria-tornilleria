@@ -1,0 +1,10 @@
+@startuml Customer
+!startsub Customer
+skinparam ClassAttributeIconSize 0
+
+class Customer { 
+    +Customer(string id, string name)
+}
+
+!endsub
+@enduml

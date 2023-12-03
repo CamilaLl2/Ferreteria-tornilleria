@@ -1,0 +1,12 @@
+@startuml Users
+!startsub Users
+skinparam ClassAttributeIconSize 0
+
+class Users {
+    -id string
+    -name string
+    +User()
+}
+
+!endsub
+@enduml

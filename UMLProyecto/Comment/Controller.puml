@@ -1,0 +1,27 @@
+@startuml Controller
+!startsub Controller
+skinparam ClassAttributeIconSize 0
+
+class Controller {
+    -users ArrayList<Users>
+    -products ArrayList<Product>
+    -shopinCart ArrayList<ShopingCart>
+    -comments ArrayList<Comment>
+    -path string
+    -prepareFolder(File file): void
+    +productAmount(string id): int
+    +setShopinCart(ArrayList<ShopingCart> shopingCart)
+    +saveUser(ArrayList<Users> users): boolean
+    +ArrayList<Users> getUsers()
+    +Users getUser(String id)
+    +Users userExist(String user, String pasw)
+    +ArrayList<Product> getProducts()
+    +Product getProduct(String id)
+    +setProducts(ArrayList<Product> products): boolean
+    +ArrayList<Comment> getComments(Product product)
+    +ArrayList<Comment> getAllComments()
+    +setComments(ArrayList<Comment> comments): boolean
+}
+
+!endsub
+@enduml

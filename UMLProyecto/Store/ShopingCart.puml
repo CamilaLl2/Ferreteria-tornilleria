@@ -1,0 +1,12 @@
+@startuml ShopingCart
+!startsub ShopingCart
+skinparam ClassAttributeIconSize 0
+
+class ShopingCart {
+    -product Product
+    -amount int
+    +ShopingCart(Product product, int amount)
+}
+
+!endsub
+@enduml
