@@ -37,9 +37,9 @@ El proyecto a desarrolar consiste en una aplicación para una ferreteria-tornill
 
 1. Permitir al administrador agregar usuarios de posibles clientes y validar correctamente los usuarios guardados.
 
-2.Mostrar a los clientes los productos en venta y que estos puedan montarlos al carrito y pagarlos si así lo desea.
+2. Mostrar a los clientes los productos en venta y que estos puedan montarlos al carrito y pagarlos si así lo desea.
 
-3.Permitir al vendedor agregar más productos a la tienda.
+3. Permitir al vendedor agregar más productos a la tienda.
 
 4. Permitirle al cliente agregar comentarios sobre la calidad de los productos.
 
