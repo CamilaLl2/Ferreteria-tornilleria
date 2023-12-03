@@ -28,7 +28,7 @@ Soy Miguel David, uno de los colaboradores de este proyecto. En este proyecto me
 
 ##### Más acerca de mi módulo
 Mi módulo se divide en 2 partes. Una se encarga de mostrar los comentarios que han realizado otros clientes sobre los productos y que estos sean visibles en la aplicación y la otra controla el funcionamiento general.
-ImagenesModulos/Comment.png
+
 
 ## Usabilidad
 
