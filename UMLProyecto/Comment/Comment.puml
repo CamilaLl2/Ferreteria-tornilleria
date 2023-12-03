@@ -1,0 +1,14 @@
+@startuml Comment
+!startsub Comment
+skinparam ClassAttributeIconSize 0
+
+class Comment {
+    -id string
+    -product Product
+    -user User
+    -comment string
+    +Comment(string id, Product product, User user, string comment)
+}
+
+!endsub
+@enduml

@@ -1,0 +1,16 @@
+@startuml Util
+!startsub Util
+skinparam ClassAttributeIconSize 0
+
+class Util{
++getJarName(): String
++runningFromJAR(): boolean
++getProgramDirectory(): String
+-getCurrentProjectDirectory(): String
+-getCurrentJARDirectory(): String
++tableFmt (JTable table, int[] arrWidth): void
+}
+
+!endsub
+@enduml
+

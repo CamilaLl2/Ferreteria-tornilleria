@@ -1,0 +1,10 @@
+@startuml Admin
+!startsub Admin
+skinparam ClassAttributeIconSize 0
+
+class Admin {
+    +Admin(string id, string name)
+}
+
+!endsub
+@enduml
