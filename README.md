@@ -22,7 +22,8 @@ https://github.com/CamilaLl2/Ferreteria-tornilleria/blob/255570ddf50bf93711d07f8
 Soy John Marlon, uno de los colaboradores de este grupo. En este proyecto trabajo en la parte relacionada con la oferta de productos.
 
 ##### Más acerca de mi módulo
-Mi módulo consiste en mostrar a los clientes los productos que se encuentran en venta en la ferretería y que puedan montarlos al carrito de compras si desean comprarlo, además de permitir a los vendedores insertar más productos a la tienda.
+Mi módulo consiste en mostrar a los clientes los productos que se encuentran en venta en la ferretería y que puedan montarlos al carrito de compras si desean comprarlo, además de permitir a los vendedores insertar más productos a la tienda. Mi diagrama uml es:
+https://github.com/CamilaLl2/Ferreteria-tornilleria/blob/7e443a32091c47f7859d2ff1992aa1a86415bf2e/ImagenesModulos/Product.png
 
 #### mdavidlau2006
 Soy Miguel David, uno de los colaboradores de este proyecto. En este proyecto me encargo del módulo referente a las referencias de los productos y control general de la aplicación.
