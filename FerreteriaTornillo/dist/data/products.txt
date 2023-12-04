@@ -1,0 +1,3 @@
+id=1,title=Tornillo de rosca gorda,description=Tornillo de acero con rosca gorda,stock=6,price=3.5,image=D:\FerreteriaTornillo\assets\perno_dorado.png
+id=2,title=Tornillo con tuerca,description=Tornillo de acero inoxidable de 7mm con tuerca,stock=15,price=8.9,image=D:\FerreteriaTornillo\assets\tornillo_con_tuerca.jpeg
+id=3,title=Tornillo grande,description=muy grande,stock=1,price=23.0,image=E:\FerreteriaTornillo\assets\tornillo_con_tuerca.png
