@@ -1,0 +1,4 @@
+id=1,productId=1,userId=2,comment=Esto es tronco de tornillo
+id=2,productId=1,userId=2,comment=Probando...........
+id=3,productId=2,userId=2,comment=Primero
+
