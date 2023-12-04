@@ -1,3 +1,0 @@
-id=1,username=migue,password=123,role=2
-id=4,username=Camila,password=123,role=0
-id=5,username=John,password=123,role=1

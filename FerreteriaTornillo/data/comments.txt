@@ -1,3 +1,0 @@
-id=1,productId=1,userId=4,comment=buen tornillo
-id=2,productId=2,userId=4,comment=tremenda calidad
-id=3,productId=2,userId=4,comment=barato
