@@ -1,0 +1,4 @@
+id=1,productId=1,userId=2,comment=buenos tornillos
+id=2,productId=2,userId=2,comment=super recomendado
+id=3,productId=3,userId=2,comment=lo mejor de lo mejor
+id=4,productId=3,userId=2,comment=que bonito

@@ -1,0 +1,3 @@
+id=1,title=Tornillo de perno dorado,description=Tornillo muy bueno para la construccion,stock=30,price=2.5,type=1,image=D:\FerreteriaTornillo\assets\perno_dorado.png
+id=2,title=Tornillo con tuerca,description=Tornillo usado con mucha frecuencia,stock=25,price=5.0,type=2,image=D:\FerreteriaTornillo\assets\tornillo_con_tuerca.jpeg
+id=3,title=Tornillo tuerca plateada,description=Tornillo con mucha estetica,stock=50,price=7.0,type=0,image=D:\FerreteriaTornillo\assets\tuerca_plateada.png
